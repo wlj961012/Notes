@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (c) 2010-2011, The MiCode Open Source Community (www.micode.net)
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="user_query_highlight">#335b5b5b</color>
+    <color name="logincolorPrimary">#c38fe4d9</color>
+    <color name="logincolorPrimaryDark">#c38fe4d9</color>
+    <color name="logincolorAccent">#FF4081</color>
+    <color name="menucolorPrimary">#65c294</color>
+    <color name="menucolorPrimaryDark">#65c294</color>
+    <color name="menucolorAccent">#FF4081</color>
+
+
+    <color name="menu_around_circle_doing_color">#c38fe4d9</color>
+    <color name="menu_around_circle_def_color">#4e545e</color>
+    <color name="menu_around_circle_complete_color">#8fe4d9</color>
+
+    <color name="menu_center_circle_color">#37a0f4</color>
+    <color name="menu_arc_change">#fafafa</color>
+    <color name="menu_arc_default">#656d74</color>
+
+    <color name="menuwhite">#ffffff</color>
+
+    <color name="calendar_colorPrimary">#c38fe4d9</color>
+    <color name="calendar_colorPrimaryDark">#c38fe4d9</color>
+    <color name="calendar_colorAccent">#FF4081</color>
+    <color name="calendar_white">#FFFFFF</color>
+
+
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+
+    <color name="toolbar_bg">#c38fe4d9</color>
+    <color name="toolbar_item">#5c7a29</color>
+    <color name="toolbar_divider">#5c7a29</color>
+
+    <color name="event_color_01">#59dbe0</color>
+    <color name="event_color_02">#f57f68</color>
+    <color name="event_color_03">#87d288</color>
+    <color name="event_color_04">#f8b552</color>
+    <color name="toolbar">#efefef</color>
+    <color name="toolbar_text">#8f000000</color>
+    <color name="accent">#c38fe4d9</color>
+
+    <color name="default_color">#c38fe4d9</color>
+    <color name="default_color_dark">#c38fe4d9</color>
+    <color name="color_red">#FF0000</color>
+
+    <color name="colorPrimary">#c38fe4d9</color>
+    <color name="colorPrimaryDark">#c38fe4d9</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="design_red">#AADA498C</color>
+    <color name="design_dray">#40ffffff</color>
+    <color name="design_azure">#F0FFFF</color>
+    <color name="design_honeydew">#F0FFF0</color>
+
+    <!--朋友圈用的颜色-->
+    <color name="im_line_color">#DADADA</color>
+    <color name="color_8290AF">#8290AF</color>
+    <color name="color_aeaeae">#aeaeae</color>
+    <color name="color_232323">#232323</color>
+    <color name="im_font_color_text_hint">#abb1b6</color>
+    <color name="im_social_dig_name_bg">#DDDDDD</color>
+    <color name="name_selector_color">#cccccc</color>
+
+    <color name="bg_no_photo">#EEEEEE</color>
+
+    <color name="color_item_normal">#EEEEEE</color>
+    <color name="color_item_press">#aeaeae</color>
+
+    <!--底部导航-->
+    <color name="firstColor">#00BCD4</color>
+    <color name="secondColor">#E91E63</color>
+    <color name="thirdColor">#FF5722</color>
+    <color name="fourthColor">#4CAF50</color>
+
+    <color name="bgcolor">#ffffff</color>
+
+    <color name="border_clo">#ccc</color>
+    <color name="text_clo">#333</color>
+    <color name="blue">#419DE4</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="bg_selected_false">#ddd</color>
+    <color name="bg_selected_true">#eee</color>
+    <color name="custom_green">#B2DB4D</color>
+
+</resources>

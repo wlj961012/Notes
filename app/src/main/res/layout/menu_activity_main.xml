@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="net.micode.notes.menu.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg"
+        android:contentDescription="TODO" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#44000000" />
+
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <net.micode.notes.menu.CircleLayout
+            android:id="@+id/circle_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:aroundCircleCompleteColor="@color/menu_around_circle_complete_color"
+            app:aroundCircleDefColor="@color/menu_around_circle_def_color"
+            app:aroundCircleDoingColor="#c38fe4d9"
+            app:centerArcColor="@color/menu_arc_change"
+            app:centerArcColorDef="@color/menu_arc_default"
+            app:centerCircleColor="#c38fe4d9"
+            app:centerCircleText="NOTE"
+            app:centerCircleTextColor="@color/menuwhite"
+            app:centerCircleTextSize="22sp"
+            app:aroundSmallCircleColor="@color/menuwhite"
+            app:titleSize="16sp"
+            app:titleColor="@color/menuwhite"/>
+
+    </LinearLayout>
+</RelativeLayout>

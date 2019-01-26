@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressMenu">
+        <attr name="centerCircleText" format="string|reference" />
+        <attr name="centerCircleTextSize" format="dimension|reference" />
+        <attr name="centerCircleTextColor" format="color|reference" />
+
+        <attr name="centerCircleColor" format="color|reference" />
+        <attr name="centerArcColorDef" format="color|reference" />
+        <attr name="centerArcColor" format="color|reference" />
+
+        <attr name="aroundCircleDefColor" format="color|reference" />
+        <attr name="aroundCircleDoingColor" format="color|reference" />
+        <attr name="aroundCircleCompleteColor" format="color|reference" />
+
+        <attr name="aroundSmallCircleColor" format="color|reference" />
+
+        <attr name="titleSize" format="dimension|reference" />
+        <attr name="titleColor" format="color|reference" />
+
+    </declare-styleable>
+
+    <declare-styleable name="GooeyMenu">
+
+        <attr name="no_of_menu" format="integer" />
+        <attr name="fab_radius" format="dimension" />
+        <attr name="menu_radius" format="dimension" />
+        <attr name="gap_between_menu_fab" format="dimension" />
+        <attr name="menu_drawable" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SmartDrawingView">
+        <attr name="smart_finger_color" format="color"/>
+        <attr name="smart_stroke_width" format="dimension"/>
+    </declare-styleable>
+
+    <attr name="SmartDrawingViewStyle" format="reference"  />
+
+    <attr name="SmartDrawableCardViewStyle" format="reference"/>
+
+</resources>
